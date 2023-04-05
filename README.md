@@ -4,7 +4,7 @@
 3. Differential Attack
 4. Linear Attack
 5. Block Cipher Operation Mode
-   ㄴ ECB
+  ㄴ ECB
    ㄴ CBC
    ㄴ OFB
    ㄴ CFB
